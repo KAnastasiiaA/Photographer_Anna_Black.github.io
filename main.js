@@ -19,13 +19,13 @@ const WORKFLOW_IMAGE_ONE = document.querySelector('.hero__image_one');
 const WORKFLOW_IMAGE_SECOND = document.querySelector('.hero__image_second');
 
 const WORKFLOW_IMAGE_ONES = [
-    'https://thumb.cloud.mail.ru/thumb/xw1/%D0%90%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC%D1%8B/svetlana-gumerova-MK-b0PE3Dx4-unsplash%201.jpg' ,
+    'https://thumb.cloud.mail.ru/thumb/xw1/%D0%90%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC%D1%8B/image%2015.jpg' ,
     'https://ie.wampi.ru/2023/02/23/ani-1.jpg' ,
     'https://ic.wampi.ru/2023/02/23/por-1.jpg'
 ];
 
 const WORKFLOW_IMAGE_SECONDS = [
-    'https://im.wampi.ru/2023/02/15/nat-2.jpg' , 
+    'https://thumb.cloud.mail.ru/thumb/xw1/%D0%90%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC%D1%8B/svetlana-gumerova-MK-b0PE3Dx4-unsplash%201.jpg' , 
     'https://ic.wampi.ru/2023/02/23/ani-2.jpg' , 
     'https://ic.wampi.ru/2023/02/23/por-2.jpg'
 ];
